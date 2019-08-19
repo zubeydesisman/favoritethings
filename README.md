@@ -4,7 +4,7 @@
 #### _**08/19/19: Zubeyde Sisman**_
 
 ## Description
-Favorite Things Webpage (using HTML, CSS, JavaScript and jQuery Loops)
+Favorite Things Webpage (using HTML, CSS, JavaScript and jQuery Arrays)
 
 ### Website should have:
 
